@@ -1,0 +1,9 @@
+{
+  "spaceId": "YOUR_CONTENTFUL_SPACE_ID",
+  "environmentId": "master",
+  "managementToken": "YOUR_CONTENTFUL_MANAGEMENT_TOKEN",
+  "contentFile": "./data/export.json",
+  "host": "api.contentful.com",
+  "errorLogFile": "./error.log",
+  "skipLocales": true
+}

@@ -1,0 +1,19 @@
+{
+  "spaceId": "YOUR_CONTENTFUL_SPACE_ID",
+  "environmentId": "master",
+  "managementToken": "YOUR_CONTENTFUL_MANAGEMENT_TOKEN",
+  "deliveryToken": "YOUR_CONTENTFUL_DELIVERY_TOKEN",
+  "exportDir": "./data",
+  "saveFile": true,
+  "contentFile": "export.json",
+  "includeDrafts": true,
+  "includeArchived": true,
+  "skipContentModel": false,
+  "skipContent": true,
+  "skipRoles": false,
+  "skipWebhooks": false,
+  "contentOnly": false,
+  "downloadAssets": false,
+  "host": "api.contentful.com",
+  "errorLogFile": "./error.log"
+}
